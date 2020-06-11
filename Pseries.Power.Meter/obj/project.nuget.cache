@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGSUe5Sa9r+tC5Fs0x9fJ0vRdF430NJKElHZVglojr7l2bYN73X4040dMOH+l+LZoRFt6bgZimBpxWKdUpp6NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ae1\\source\\repos\\Pseries.Power.Meter\\Pseries.Power.Meter\\Pseries.Power.Meter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ae1\\.nuget\\packages\\opentap\\9.7.0\\opentap.9.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
