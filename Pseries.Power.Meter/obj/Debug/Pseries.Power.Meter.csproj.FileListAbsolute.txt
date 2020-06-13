@@ -1,0 +1,7 @@
+C:\Users\ae1\source\repos\Output\P-Series-Power-Meter\Pseries.Power.Meter.dll
+C:\Users\ae1\source\repos\Output\P-Series-Power-Meter\Pseries.Power.Meter.pdb
+C:\Users\ae1\Source\Repos\tarang1606\ASEPL-P-Series-Power-Meter\Pseries.Power.Meter\obj\Debug\Pseries.Power.Meter.csprojAssemblyReference.cache
+C:\Users\ae1\Source\Repos\tarang1606\ASEPL-P-Series-Power-Meter\Pseries.Power.Meter\obj\Debug\Pseries.Power.Meter.csproj.CoreCompileInputs.cache
+C:\Users\ae1\Source\Repos\tarang1606\ASEPL-P-Series-Power-Meter\Pseries.Power.Meter\obj\Debug\Pseries.Power.Meter.csproj.CopyComplete
+C:\Users\ae1\Source\Repos\tarang1606\ASEPL-P-Series-Power-Meter\Pseries.Power.Meter\obj\Debug\Pseries.Power.Meter.dll
+C:\Users\ae1\Source\Repos\tarang1606\ASEPL-P-Series-Power-Meter\Pseries.Power.Meter\obj\Debug\Pseries.Power.Meter.pdb

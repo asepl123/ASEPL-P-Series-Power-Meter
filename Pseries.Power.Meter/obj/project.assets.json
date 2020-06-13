@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ae1\\source\\repos\\Pseries.Power.Meter\\Pseries.Power.Meter\\Pseries.Power.Meter.csproj",
+      "projectUniqueName": "C:\\Users\\ae1\\Source\\Repos\\tarang1606\\ASEPL-P-Series-Power-Meter\\Pseries.Power.Meter\\Pseries.Power.Meter.csproj",
       "projectName": "Pseries.Power.Meter",
-      "projectPath": "C:\\Users\\ae1\\source\\repos\\Pseries.Power.Meter\\Pseries.Power.Meter\\Pseries.Power.Meter.csproj",
+      "projectPath": "C:\\Users\\ae1\\Source\\Repos\\tarang1606\\ASEPL-P-Series-Power-Meter\\Pseries.Power.Meter\\Pseries.Power.Meter.csproj",
       "packagesPath": "C:\\Users\\ae1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ae1\\source\\repos\\Pseries.Power.Meter\\Pseries.Power.Meter\\obj\\",
+      "outputPath": "C:\\Users\\ae1\\Source\\Repos\\tarang1606\\ASEPL-P-Series-Power-Meter\\Pseries.Power.Meter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ae1\\AppData\\Roaming\\NuGet\\NuGet.Config",
